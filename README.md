@@ -1,2 +1,1 @@
-# sorting_algorithms
-a shitty project for ALX again
+# 0x1B. C - Sorting algorithms & Big O
